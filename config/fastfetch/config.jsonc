@@ -1,0 +1,47 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "/home/kyoto/Documentos/logo.txt",
+    "color": {
+      "1": "cyan"
+    }
+  },
+  "display": {
+    "color": "light_red"
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "format": "print\"Reze_Chainsaw_Man.txt\""
+    },
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "localip",
+    "battery",
+    "poweradapter",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
