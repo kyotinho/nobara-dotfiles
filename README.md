@@ -32,8 +32,9 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 | **Informações (Fetch)** | Fastfetch | Arte customizada (Reze - Chainsaw Man) |
 | **Extras** | Pokeget, CMatrix, Btop, Cava | Ferramentas visuais e de monitoramento |
 
-  <img src="https://github.com/user-attachments/assets/f3336085-4d10-4ca5-9048-1f12bc5cff4b" alt="Screenshot 1" width="800px" style="border-radius: 10px; margin-bottom: 15px;">
-    <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7"/>
+  <img width="1920" height="1080" alt="Captura_de_tela_20260728_170843" src="https://github.com/user-attachments/assets/15dd805f-4b3d-4263-8dfc-63536dad316f" />
+  <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7"/>
+  
 
 ## Como Instalar
 
@@ -67,3 +68,7 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
 ```
 
 <div align="center"> 
+
+### Agradecimentos Especiais:
+
+[Akiakane (秋赤音)](https://x.com/_akiakane) Pelo wallpaper, baixado via [Gruvbox-Wallpapers](https://gruvbox-wallpapers.pages.dev/), confira também o [projeto de esquemas de cores para Vim](https://github.com/morhetz/gruvbox) deles 😸
