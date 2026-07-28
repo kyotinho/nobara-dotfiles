@@ -10,10 +10,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/16beee8f-4ec8-4f56-a09a-62c46bb8e722" alt="Screenshot 3" width="800px" style="border-radius: 10px;">
-</div>
   <img width="1920" height="1080" alt="Captura_de_tela_20260613_090110" src="https://github.com/user-attachments/assets/c86977ae-0725-4f06-b8b0-2b45af3b891c" />
-
+</div>
 
 <br>
 
