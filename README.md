@@ -41,14 +41,14 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 
 Se você quiser usar essas configurações como base para o seu próprio sistema, siga os passos abaixo.
 
-**1. Clone o repositório:**
+### 1. Clone o repositório:**
 ```bash
 git clone [https://github.com/SEU_USUARIO/nobara-dotfiles.git](https://github.com/SEU_USUARIO/nobara-dotfiles.git) ~/dotfiles
 cd ~/dotfiles
 ```
 
-**2. Crie os links simbólicos (Exemplo para o Kitty e Starship):**
-### Faça backup dos seus arquivos originais primeiro
+### 2. Crie os links simbólicos (Exemplo para o Kitty e Starship):
+**Faça backup dos seus arquivos originais primeiro**
 ```bash
 ln -s ~/dotfiles/config/kitty/kitty.conf ~/.config/kitty/kitty.conf
 ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
