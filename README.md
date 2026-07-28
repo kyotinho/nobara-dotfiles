@@ -64,4 +64,5 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
  ┃ ┗ 📂 kde/          # kdeglobals, kwinrc, atalhos do Plasma
  ┣ 📜 starship.toml   # Configuração do prompt do terminal
  ┣ 📜 logo.txt        # Arte em ASCII customizada (Reze)
+ ┣ 🖼️ wallpaper.png   # Wallpaper do Showcase
  ┗ 📜 README.md       # Este arquivo
