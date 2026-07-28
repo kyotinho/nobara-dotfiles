@@ -33,13 +33,18 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 | **Extras** | [Pokeget](https://github.com/talwat/pokeget-rs), [CMatrix](https://github.com/abishekvashok/cmatrix), [Btop](https://github.com/aristocratos/btop), [Cava](https://github.com/karlstav/cava) | Ferramentas visuais e de monitoramento |
 
   <img width="1920" height="1080" alt="Captura_de_tela_20260728_170843" src="https://github.com/user-attachments/assets/15dd805f-4b3d-4263-8dfc-63536dad316f" />
+  
   Comandos:
-  ```bash
+  
+  ```
   pokeget
   ```
+
   <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7"/>
+  
 Comandos:
-```bash
+
+```
 cmatrix
 aphex (customizado por mim)
 cava
