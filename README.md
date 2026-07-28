@@ -66,9 +66,7 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
  ┣ 🖼️ wallpaper.png   # Wallpaper do Showcase
  ┗ 📜 README.md       # Este arquivo
 ```
-
-<div align="center"> 
-
-### Agradecimentos Especiais:
+--- 
+#### Agradecimentos Especiais:
 
 [Akiakane (秋赤音)](https://x.com/_akiakane) Pelo wallpaper, baixado via [Gruvbox-Wallpapers](https://gruvbox-wallpapers.pages.dev/), confira também o [projeto de esquemas de cores para Vim](https://github.com/morhetz/gruvbox) deles 😸
