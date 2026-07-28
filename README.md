@@ -10,8 +10,11 @@
 <br>
 
 <div align="center">
-  <!-- A imagem que você acabou de copiar vai aparecer aqui! -->
-  <img src="./screenshot.png" alt="Desktop Screenshot" width="800px" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/f3336085-4d10-4ca5-9048-1f12bc5cff4b" alt="Screenshot 1" width="800px" style="border-radius: 10px; margin-bottom: 15px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/7fd7838c-8d09-474d-8a04-4b26fb73d54d" alt="Screenshot 2" width="800px" style="border-radius: 10px; margin-bottom: 15px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/16beee8f-4ec8-4f56-a09a-62c46bb8e722" alt="Screenshot 3" width="800px" style="border-radius: 10px;">
 </div>
 
 <br>
@@ -31,7 +34,7 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 | **Shell** | Bash | + Starship Prompt para um visual limpo |
 | **Tema do Sistema** | Orchis | Tema GTK/Qt elegante e arredondado |
 | **Informações (Fetch)** | Fastfetch | Arte customizada (Reze - Chainsaw Man) |
-| **Extras** | Spicetify, Btop, Cava | Ferramentas visuais e de monitoramento |
+| **Extras** | Pokeget, CMatrix, Btop, Cava | Ferramentas visuais e de monitoramento |
 
 ## Como Instalar
 
