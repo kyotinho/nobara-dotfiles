@@ -35,7 +35,7 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
   <img width="1920" height="1080" alt="Captura_de_tela_20260728_170843" src="https://github.com/user-attachments/assets/15dd805f-4b3d-4263-8dfc-63536dad316f" />
   
   ```
-  pokeget
+  pokeget (Nome_Do_Pokémon)
   ```
 
   <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7"/>
