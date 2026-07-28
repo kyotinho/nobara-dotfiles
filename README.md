@@ -12,6 +12,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/16beee8f-4ec8-4f56-a09a-62c46bb8e722" alt="Screenshot 3" width="800px" style="border-radius: 10px;">
 </div>
+  <img width="1920" height="1080" alt="Captura_de_tela_20260613_090110" src="https://github.com/user-attachments/assets/c86977ae-0725-4f06-b8b0-2b45af3b891c" />
+
 
 <br>
 
@@ -36,7 +38,8 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
   <br>
     <img src="https://github.com/user-attachments/assets/7fd7838c-8d09-474d-8a04-4b26fb73d54d" alt="Screenshot 2" width="800px" style="border-radius: 10px; margin-bottom: 15px;">
   <br>
-  
+    <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7" />
+
 ## Como Instalar
 
 Se você quiser usar essas configurações como base para o seu próprio sistema, siga os passos abaixo.
@@ -63,6 +66,7 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
  ┃ ┣ 📂 kitty/        # Emulador de terminal
  ┃ ┗ 📂 kde/          # kdeglobals, kwinrc, atalhos do Plasma
  ┣ 📜 starship.toml   # Configuração do prompt do terminal
- ┣ 📜 logo.txt        # Arte em ASCII customizada (Reze)
+ ┣ 📜 logo.txt        # Arte em ASCII customizada (Reze)<img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/cac53b2e-efb1-496c-a061-fb7c8d0257b7" />
+
  ┣ 🖼️ wallpaper.png   # Wallpaper do Showcase
  ┗ 📜 README.md       # Este arquivo
