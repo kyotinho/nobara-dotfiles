@@ -25,12 +25,12 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 | :--- | :--- | :--- |
 | **OS** | Nobara Linux 44 | Focado em performance e jogos |
 | **Ambiente (DE)** | KDE Plasma | Moderno e altamente customizável |
-| **Gerenciador de Janelas** | KWin | Comportamento padrão e atalhos globais |
-| **Terminal** | Kitty | Acelerado por GPU e extremamente rápido |
-| **Shell** | Bash | + Starship Prompt para um visual limpo |
-| **Tema do Sistema** | Orchis | Tema GTK/Qt elegante e arredondado |
-| **Informações (Fetch)** | Fastfetch | Arte customizada (Reze - Chainsaw Man) |
-| **Extras** | Pokeget, CMatrix, Btop, Cava | Ferramentas visuais e de monitoramento |
+| **Gerenciador de Janelas** | [KWin](https://github.com/KDE/kwin) | Comportamento padrão e atalhos globais |
+| **Terminal** | [Kitty](https://github.com/kovidgoyal/kitty) | Acelerado por GPU e extremamente rápido |
+| **Shell** | Bash | + [Starship Prompt](https://github.com/starship/starship) para um visual limpo |
+| **Tema do Sistema** | [Orchis](https://github.com/vinceliuice/Orchis-theme) | Tema GTK/Qt elegante e arredondado |
+| **Informações (Fetch)** | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | Arte customizada (Reze - Chainsaw Man) |
+| **Extras** | [Pokeget](https://github.com/talwat/pokeget-rs), [CMatrix](https://github.com/abishekvashok/cmatrix), [Btop](https://github.com/aristocratos/btop), [Cava](https://github.com/karlstav/cava) | Ferramentas visuais e de monitoramento |
 
   <img width="1920" height="1080" alt="Captura_de_tela_20260728_170843" src="https://github.com/user-attachments/assets/15dd805f-4b3d-4263-8dfc-63536dad316f" />
   <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7"/>
@@ -69,4 +69,4 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
 --- 
 #### Agradecimentos Especiais:
 
-[Akiakane (秋赤音)](https://x.com/_akiakane) Pelo wallpaper, baixado via [Gruvbox-Wallpapers](https://gruvbox-wallpapers.pages.dev/), confira também o [projeto de esquemas de cores para Vim](https://github.com/morhetz/gruvbox) deles 😸
+[Akiakane (秋赤音)](https://x.com/_akiakane) pelo wallpaper, baixado via [Gruvbox-Wallpapers](https://gruvbox-wallpapers.pages.dev/), confira também o [projeto de esquemas de cores para Vim](https://github.com/morhetz/gruvbox) deles 😸
