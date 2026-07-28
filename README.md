@@ -41,7 +41,7 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 
 Se você quiser usar essas configurações como base para o seu próprio sistema, siga os passos abaixo.
 
-### 1. Clone o repositório:**
+### 1. Clone o repositório:
 ```bash
 git clone [https://github.com/SEU_USUARIO/nobara-dotfiles.git](https://github.com/SEU_USUARIO/nobara-dotfiles.git) ~/dotfiles
 cd ~/dotfiles
