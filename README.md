@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌌 Kyoto's KDE Dotfiles</h1>
+  <h1>Nobara Linux KDE Dotfiles 🐧</h1>
   <p>Minhas configurações pessoais e arquivos de ambiente para o Nobara Linux com KDE Plasma.</p>
   
   ![Nobara Linux](https://img.shields.io/badge/OS-Nobara%2044-blue?style=for-the-badge&logo=linux)
@@ -16,11 +16,11 @@
 
 <br>
 
-## 📌 Visão Geral
+## Visão Geral
 
 Este repositório contém os meus *dotfiles*, organizados para facilitar a replicação do meu ambiente de desenvolvimento e uso diário. A filosofia aqui é manter um sistema bonito, rápido e focado em produtividade usando as tecnologias nativas do KDE.
 
-## 🛠️ Especificações (A Base)
+## Especificações
 
 | Componente | Ferramenta | Detalhes |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 | **Informações (Fetch)** | Fastfetch | Arte customizada (Reze - Chainsaw Man) |
 | **Extras** | Spicetify, Btop, Cava | Ferramentas visuais e de monitoramento |
 
-## 🚀 Como Instalar
+## Como Instalar
 
 Se você quiser usar essas configurações como base para o seu próprio sistema, siga os passos abaixo.
 
