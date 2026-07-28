@@ -35,10 +35,7 @@ Este repositório contém os meus *dotfiles*, organizados para facilitar a repli
 | **Extras** | Pokeget, CMatrix, Btop, Cava | Ferramentas visuais e de monitoramento |
 
   <img src="https://github.com/user-attachments/assets/f3336085-4d10-4ca5-9048-1f12bc5cff4b" alt="Screenshot 1" width="800px" style="border-radius: 10px; margin-bottom: 15px;">
-  <br>
-    <img src="https://github.com/user-attachments/assets/7fd7838c-8d09-474d-8a04-4b26fb73d54d" alt="Screenshot 2" width="800px" style="border-radius: 10px; margin-bottom: 15px;">
-  <br>
-    <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7" />
+    <img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/c6287a65-d7c0-48a3-821a-eed1a9aca2c7"/>
 
 ## Como Instalar
 
@@ -66,7 +63,9 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
  ┃ ┣ 📂 kitty/        # Emulador de terminal
  ┃ ┗ 📂 kde/          # kdeglobals, kwinrc, atalhos do Plasma
  ┣ 📜 starship.toml   # Configuração do prompt do terminal
- ┣ 📜 logo.txt        # Arte em ASCII customizada (Reze)<img width="1920" height="1080" alt="Captura_de_tela_20260613_081828" src="https://github.com/user-attachments/assets/cac53b2e-efb1-496c-a061-fb7c8d0257b7" />
-
+ ┣ 📜 logo.txt        # Arte em ASCII customizada (Reze)
  ┣ 🖼️ wallpaper.png   # Wallpaper do Showcase
  ┗ 📜 README.md       # Este arquivo
+```
+
+<div align="center"> 
