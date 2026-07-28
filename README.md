@@ -48,7 +48,7 @@ cd ~/dotfiles
 ```
 
 **2. Crie os links simbólicos (Exemplo para o Kitty e Starship):**
-!!Faça backup dos seus arquivos originais primeiro!!
+## Faça backup dos seus arquivos originais primeiro
 ```bash
 ln -s ~/dotfiles/config/kitty/kitty.conf ~/.config/kitty/kitty.conf
 ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
