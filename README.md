@@ -55,7 +55,7 @@ ln -s ~/dotfiles/starship.toml ~/.config/starship.toml
 ```
 
 ## 📁 Estrutura de Diretórios
-
+```
 📦 ~/dotfiles
  ┣ 📂 config/
  ┃ ┣ 📂 btop/         # Monitor do sistema
